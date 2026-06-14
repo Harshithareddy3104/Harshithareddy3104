@@ -43,11 +43,11 @@ Hi! I'm **Harshitha**, a passionate fresher developer who loves building web app
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-Power BI
-MS Excel
+![Git]
+![GitHub]
+![VS Code]
+![Power BI]
+![MS Excel]
 
 ---
 
@@ -97,7 +97,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 
 **Let's create something extraordinary together!** ✨
 
-[📧 Email Me](mailto:harshithareddy3104@email.com) • [💼 LinkedIn](https://linkedin.com/in/harshithareddy3104) • [🐙 GitHub](https://github.com/Harshithareddy3104)
+[📧 Email Me](mailto:harshithareddy.mittapally@email.com) • [💼 LinkedIn](www.linkedin.com/in/harshitha-mittapally-2bb516325) • [🐙 GitHub](https://github.com/Harshithareddy3104)
 
 ---
 
