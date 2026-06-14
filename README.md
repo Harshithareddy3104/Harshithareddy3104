@@ -43,10 +43,10 @@ Hi! I'm **Harshitha**, a passionate fresher developer who loves building web app
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools & Platforms
-GitHub,
-VS Code,
-Power BI,
-![MSExcel](https://img.shields.io/badge/MSExcel-CC2927?style=for-the-badge&logo=microsoftexcelserver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-339933?style=for-the-badge&logo=GitHub&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-3776AB?style=for-the-badge&logo=VSCode&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=black)
+![MS Excel](https://img.shields.io/badge/MSExcel-CC2927?style=for-the-badge&logo=microsoftexcelserver&logoColor=white)
 
 
 ---
