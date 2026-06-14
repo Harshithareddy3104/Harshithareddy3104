@@ -1,38 +1,110 @@
-## Hi there 👋
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrng615c/giphy.gif" width="30px">
+  
+  # Hi, I'm Harshitha! 👋
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Passionate+Developer;Always+Learning;Building+Amazing+Projects;Let's+Create+Together!)](https://git.io/typing-svg)
+</div>
 
-1. Go to my GitHub profile repository
-   (github.com/[username]/[username])
-   Open the README.md file
-   Click Edit (pencil icon)
-2. Delete ALL existing content
-3. Create and paste this complete README:
-SECTION A: ANIMATED HEADER- Add a wave GIF greeting- Add animated typing effect using
-  readme-typing-svg showing my role
-  and a tagline
-SECTION B: ABOUT ME- Write a short confident intro- Mention my content creation
-  (YouTube, Medium, Instagram)- Add 3-4 fun bullet points about me- Use relevant emojis
-SECTION C: TECH STACK- Add shields.io badges for ALL my technologies- Use colored badges with logos- Organize by: Frontend, Backend, Tools
-SECTION D: SOCIAL MEDIA LINKS- YouTube badge with subscriber count- Medium badge with link- Instagram badge with follower count- LinkedIn badge with link- All badges must be clickable links
-SECTION E: GITHUB STATS- GitHub Stats Card (anuraghazra/github-readme-stats)- GitHub Streak Stats (github-readme-streak-stats)- Top Languages Card- Theme: tokyonight or radical
-SECTION F: GITHUB TROPHIES- GitHub Profile Trophy (ryo-ma/github-profile-trophy)- Theme: darkhub or onedark
-SECTION G: VISITOR COUNTER- Add komarev profile views counter badge at top
-SECTION H: FOOTER- Let's Connect section with all social links- Professional closing line
-4. After pasting all content, click Commit changes
-   to save automatically
-RULES:- Do NOT ask any questions. Just do it.- Do NOT stop in the middle. Complete everything.- Use my actual GitHub username in all URLs.- Make sure all badge URLs are correct.- Make it modern, clean, and professional.
-## <<< END OF PROMPT
+---
 
-<!--
-**Harshithareddy3104/Harshithareddy3104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- SECTION G: VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshithareddy3104&style=flat-square&color=blue" alt="Profile Views">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- SECTION B: ABOUT ME -->
+## 💫 About Me
+
+Hi! I'm **Harshitha**, a passionate fresher developer who loves building web applications and exploring new technologies. I'm committed to continuous learning and creating impactful projects that solve real-world problems.
+
+- 🎯 Eager to grow as a developer
+- 🚀 Passionate about innovation and problem-solving
+- 💡 Love collaborating with creative teams
+- ⚡ Quick learner with strong fundamentals
+
+---
+
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshithareddy3104)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@harshithareddy)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshithareddy3104)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshithareddy3104)
+
+</div>
+
+---
+
+<!-- SECTION E: GITHUB STATS -->
+## 📊 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshithareddy3104&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Harshithareddy3104)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshithareddy3104&theme=tokyonight&hide_border=true)](https://github.com/Harshithareddy3104)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithareddy3104&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Harshithareddy3104)
+
+</div>
+
+---
+
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Harshithareddy3104&theme=darkhub&no-frame=true&margin-w=5&margin-h=5)](https://github.com/Harshithareddy3104)
+
+</div>
+
+---
+
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to collaborate on interesting projects and learn from the community. Whether it's contributing to open source, discussing new ideas, or building something amazing together, I'm ready!
+
+<div align="center">
+
+**Let's create something extraordinary together!** ✨
+
+[📧 Email Me](mailto:harshithareddy3104@email.com) • [💼 LinkedIn](https://linkedin.com/in/harshithareddy3104) • [🐙 GitHub](https://github.com/Harshithareddy3104)
+
+---
+
+<sub>Made with ❤️ by Harshitha</sub>
+
+</div>
