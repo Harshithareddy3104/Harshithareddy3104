@@ -56,7 +56,7 @@ Hi! I'm **Harshitha**, a passionate fresher developer who loves building web app
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-mittapally-2bb516325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harshitha-mittapally-2bb516325)
 
 </div>
 
@@ -97,7 +97,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 
 **Let's create something extraordinary together!** ✨
 
-[📧 Email Me](mailto:harshithareddy.mittapally@email.com) • [💼 LinkedIn](linkedin.com/in/harshitha-mittapally-2bb516325) • [🐙 GitHub](https://github.com/Harshithareddy3104)
+[📧 Email Me](mailto:harshithareddy.mittapally@email.com) • [💼 LinkedIn](www.linkedin.com/in/harshitha-mittapally-2bb516325) • [🐙 GitHub](https://github.com/Harshithareddy3104)
 
 ---
 
