@@ -97,7 +97,7 @@ I'm always excited to collaborate on interesting projects and learn from the com
 
 **Let's create something extraordinary together!** ✨
 
-[📧 Email Me](mailto:harshithareddy.mittapally@email.com) • [💼 LinkedIn](www.linkedin.com/in/harshitha-mittapally-2bb516325) • [🐙 GitHub](https://github.com/Harshithareddy3104)
+[📧 Email Me](mailto:harshithareddy.mittapally@email.com) • [💼 LinkedIn]([www.linkedin.com/in/harshitha-mittapally-2bb516325](https://linkedin.com/in/harshitha-mittapally-2bb516325) • [🐙 GitHub](https://github.com/Harshithareddy3104)
 
 ---
 
